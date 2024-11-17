@@ -10,4 +10,8 @@ To make sure my code works on more platforms than just my local machine, I'll be
 React Native. (n.d.). Button. Available at: https://reactnative.dev/docs/button (Accessed: 8 October 2024).
 
 # Youtube Video 
-I was unable to run my code. 
+I was unable to run my code. My navigation system was not working. However here are images of each individual screen: 
+![Screenshot 2024-11-17 201316](https://github.com/user-attachments/assets/7df89fef-45d3-4895-9f1f-930db653c16f)
+![Screenshot 2024-11-17 201443](https://github.com/user-attachments/assets/93e199b0-b529-4fef-b6ee-1d10cee0b90d)
+![Screenshot 2024-11-17 201555](https://github.com/user-attachments/assets/4cc552a5-2a8e-4eed-a415-978102146efb)
+![Screenshot 2024-11-17 201700](https://github.com/user-attachments/assets/0c0fc9cb-6430-4417-a18c-90e135cdfab3)
